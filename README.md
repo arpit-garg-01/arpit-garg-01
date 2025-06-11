@@ -20,9 +20,9 @@
 
 ###
 
-<h3 align="left">🧐 More About Me</h3>
+<h3 align="center">🧐 More About Me</h3>
 
-<p align="left">
+<p align="center">
   I'm an Experienced Technical Project Manager and Sr Business System Analyst.<br><br>
   - 🔭 Dedicated to deliver by leading, building and maintaining strategic solutions leveraging the agile methodology. <br>
   - 🌱 my expertise in System Analysis, Figma, Balsamiq, JIRA, Rally, VERSION One to deliver scalable and efficient solutions.<br>
@@ -31,8 +31,8 @@
 
 ###
 
-<h3 align="left">🔨 Languages and Tools</h3>
-<p align="left">
+<h3 align="center">🔨 Languages and Tools</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -51,7 +51,7 @@
 
 
 
-<h3 align="left">📊 Github Stats</h3>
+<h3 align="center">📊 Github Stats</h3>
 
 ###
 <div align="center">
