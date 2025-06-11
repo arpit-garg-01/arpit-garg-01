@@ -1,0 +1,63 @@
+<div align="center">
+
+<img  src="https://github.com/arpit-garg-01/arpit-garg-01/blob/master/arpit-garg-01-banner-v2.png" alt="soura-banner">
+</div>
+
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arpit-garg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arpit-garg-01.arpit-garg-01&"  />
+</div>
+
+###
+
+<h3 align="left">💡 About Me</h3>
+
+<p align="left">
+  I'm an Experienced Technical Project Manager and Sr Business System Analyst.<br><br>
+  - 💻 Dedicated to deliver by leading, building and maintaining strategic solutions leveraging the agile methodology. <br>
+  - 🤖 my expertise in System Analysis, Figma, Balsamiq, JIRA, Rally, VERSION One to deliver scalable and efficient solutions.<br>
+  - 🌱 Always learning and contributing diffrent projects.<br>
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" height="40" alt="Python"  />
+      
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" height="40" alt="Java"  />
+    
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" height="40" alt="Mysql"  />
+  
+  
+  
+</p>
+
+
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+<div align="center">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-garg-01&theme=prussian" alt="arpit-garg-01" /></p>
+  
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-garg-01&theme=react"/>
